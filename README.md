@@ -17,17 +17,16 @@ include:
  
 Your website can be as large or small as you would like but should include the at
 least the following criteria:
-- [ ] Menu of some sort to navigate the website
+- [X] Menu of some sort to navigate the website
 - [ ] 6+ pages (Home page + 5 other pages. About the hobby, about yourself, etc.)
 - [ ] 2+ controllers
 - [ ] A page about yourself
 - [ ] A database to hold information about your hobby. The database should simply
 contain a connection string to your local version of SQL Server. ((LocalDB)\.)
-- [ ] A page to display the database info
-- [ ] Possibly in an html table?
-- [ ] View folders per controllers
+- [ ] A page to display the database info (Possibly in an html table?)
+- [X] View folders per controllers
 - [ ] Shared folder with _Layout.cshtml
-- [ ] _Viewstart.cshtml
+- [X] _Viewstart.cshtml
 - [ ] _ViewImports.cshtml
 - [ ] Migrations folder to create the DB artifacts
 - [ ] wwwroot folder with jquery, bootstrap, css, etc.
