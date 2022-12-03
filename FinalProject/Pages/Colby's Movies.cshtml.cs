@@ -8,18 +8,17 @@ using System.Threading.Tasks;
 
 namespace FinalProject.Pages
 {
-    public class Privacy : PageModel
+    public class Colby : PageModel
     {
-        private readonly ILogger<Privacy> _logger;
+        private readonly ILogger<Colby> _logger;
 
-        public Privacy(ILogger<Privacy> logger)
+        public Colby(ILogger<Colby> logger)
         {
             _logger = logger;
         }
 
         public void OnGet()
         {
-
         }
     }
 }
