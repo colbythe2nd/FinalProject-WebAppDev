@@ -30,7 +30,7 @@ contain a connection string to your local version of SQL Server. ((LocalDB)\.)
 - [X] _ViewImports.cshtml
 - [X] Migrations folder to create the DB artifacts
 - [X] wwwroot folder with jquery, bootstrap, css, etc.
-- [ ] Connection string in appsettings.json and DBContext using I.o.C. (D.I.) into
+- [X] Connection string in appsettings.json and DBContext using I.o.C. (D.I.) into
 controllers after being registered in Startup.cs
 
 Note: Follow Acceptance Criteria for each assignment. Incomplete Acceptance Criteria will
